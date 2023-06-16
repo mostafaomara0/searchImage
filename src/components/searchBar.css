@@ -1,0 +1,25 @@
+
+.search-bar form{
+    width: 300px;
+    border: 3px solid rgb(173, 170, 170);
+    border-radius: 5px;
+    padding: 10px;
+}
+.search-bar form input{
+ width: 97%;
+}
+@media (max-width:576px) {
+    .search-bar form{
+        width: 100px;
+        border: 1px solid rgb(173, 170, 170);
+    
+    }
+    .search-bar form input{
+        width: 97%;
+    }
+    .search-bar form label{
+        display: none;
+
+    }
+
+}

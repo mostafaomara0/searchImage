@@ -1,0 +1,40 @@
+
+.main{
+position: relative;
+    width: 100%;
+    height: 88vhpx;
+}
+.container{
+    position: absolute;
+   
+    margin-left: 35%;
+    margin-top: 30%;
+    
+}
+.pragraph {
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    font-size: 20px;
+    top:8%;
+    right:76px;
+}
+@media (max-width:576px) {
+    .pragraph{
+        font-size: 5px;
+        top:3px;
+        right: 26px;
+    } 
+    .container{
+        margin-left: 140px;
+        margin-top: 100px;
+
+    }
+
+  
+}
+
+
+
+.main img{
+    object-fit: cover;
+}
