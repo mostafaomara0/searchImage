@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/searchImage/static/css/main.82ad2e57.css",
+    "main.js": "/searchImage/static/js/main.90c2fd3d.js",
+    "static/media/lum3n--RBuQ2PK_L8-unsplash.jpg": "/searchImage/static/media/lum3n--RBuQ2PK_L8-unsplash.2952a89c81af5ce26727.jpg",
+    "index.html": "/searchImage/index.html",
+    "main.82ad2e57.css.map": "/searchImage/static/css/main.82ad2e57.css.map",
+    "main.90c2fd3d.js.map": "/searchImage/static/js/main.90c2fd3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82ad2e57.css",
+    "static/js/main.90c2fd3d.js"
+  ]
+}
