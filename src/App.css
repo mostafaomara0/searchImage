@@ -21,12 +21,12 @@ position: relative;
 @media (max-width:576px) {
     .pragraph{
         font-size: 5px;
-        top:3px;
-        right: 18px;
+       top:0px;
+       left: 0px;
     } 
     .container{
-        margin-left: 120px;
-        margin-top: 100px;
+        left:-25px;
+        top: 0px;
 
     }
 
