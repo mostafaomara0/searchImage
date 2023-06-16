@@ -2,12 +2,12 @@
 .main{
 position: relative;
     width: 100%;
-    height: 88vhpx;
+    height: 88vh;
 }
 .container{
     position: absolute;
    
-    margin-left: 35%;
+    margin-left: 40%;
     margin-top: 30%;
     
 }
@@ -22,10 +22,10 @@ position: relative;
     .pragraph{
         font-size: 5px;
         top:3px;
-        right: 26px;
+        right: 18px;
     } 
     .container{
-        margin-left: 140px;
+        margin-left: 120px;
         margin-top: 100px;
 
     }
